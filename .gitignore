@@ -1,0 +1,6 @@
+.env
+**/.env
+*.db
+storage/
+.dart_tool/
+build/
